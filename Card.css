@@ -1,0 +1,27 @@
+.card {
+  margin-top: 200px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.colour {
+  height: 90px;
+  width: 1000px;
+  color: black;
+  background-color: #d0f7fa;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.matter {
+  margin-left: 50px;
+}
+.last-button {
+  margin-left: 900px;
+  color: #087b2f;
+  margin-bottom: 50px;
+}
+
+.colour2 {
+  background-color: #d0f7fa;
+}
